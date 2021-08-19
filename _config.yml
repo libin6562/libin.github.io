@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: "libin's blog"
+name: "李斌"
 # Short bio or description (displayed in the header)
 description: "记录个人学习路程"
 
@@ -39,7 +39,7 @@ footer-links:
   #weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<username>
   dribbble:
-  zhihu: ning-meng-cheng-31-94
+  CSDN: https://blog.csdn.net/qq_51443459?spm=1001.2101.3001.5343
   email: 2393980559@qq.com
   facebook:
   flickr:
@@ -55,7 +55,7 @@ footer-links:
   youtube:
 
 # Text under the icons in footer
-footer-text: Copyright (c) 2019 lemon
+footer-text: Copyright (c) 2021 libin
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
