@@ -67,6 +67,7 @@ gitalk:
   clientSecret: a051ecc42aa6b66102da93ef2aa257cb184ec64a
   repo: libin.github.io
   owner: libin6562
+  adminUser: libin6562
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 #google_analytics: 
