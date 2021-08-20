@@ -63,8 +63,8 @@ disqus: # fromendworld
 
 # Gitalk
 gitalk:
-  clientID:66fc4428308c38ffd799
-  clientSecret: a608ab4f7a5a1356458dd3d98a6ac78c1ec301ce
+  clientID: 399a05071fc8d6055b98
+  clientSecret: a17720059e3f0aeabb40848fecb3910b5cfc0d89
   repo: libin.github.io
   owner: libin6562
 
